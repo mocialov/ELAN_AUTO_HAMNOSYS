@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: nl.mpi.lexan:lexan-api:0.9">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/nl/mpi/lexan/lexan-api/0.9/lexan-api-0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/nl/mpi/lexan/lexan-api/0.9/lexan-api-0.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/nl/mpi/lexan/lexan-api/0.9/lexan-api-0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
