@@ -47,7 +47,7 @@
 		<!-- for running ELAN before or after the package phase -->
 		<!-- integration-test with jar or prepare-package to execute without creating a jar -->
 		<exec.phase>test</exec.phase> 
-		<httpcomponents.version>4.4.1</httpcomponents.version>
+		<httpcomponents.version>4.5.13</httpcomponents.version>
 		<recognizer-api.version>4.0</recognizer-api.version>
 	</properties>
 	<!-- dependencies, jars -->
